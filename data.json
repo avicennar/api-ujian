@@ -1,0 +1,85 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "username": "admin",
+      "password": "admin",
+      "email": "pengenkawin@cepetan.com",
+      "phone": "081234567"
+    },
+    {
+      "id": 2,
+      "username": "cahyadi",
+      "password": "cahyadi12",
+      "email": "cahyadi@gmail.com",
+      "phone": "0821212121"
+    },
+    {
+      "username": "avis",
+      "email": "asd@gmail.com",
+      "password": "asd123",
+      "phone": "08121212121",
+      "id": 3
+    },
+    {
+      "username": "sena",
+      "email": "sena@gmail.com",
+      "password": "asdasd",
+      "phone": "08121212121",
+      "id": 4
+    },
+    {
+      "username": "bucin",
+      "email": "bucin@gmail.com",
+      "password": "haidar123",
+      "phone": "081111131",
+      "id": 5
+    },
+    {
+      "username": "haidar",
+      "email": "asdasd@yahoo.com",
+      "password": "asdqwe",
+      "phone": "0192981",
+      "id": 6
+    }
+  ],
+  "popok": [
+    {
+      "id": 1,
+      "nama": "Gyok",
+      "jenis": "batu",
+      "harga": 1000,
+      "description": "batu boleh nemu di jalan",
+      "img": "./image/batu.jpg"
+    },
+    {
+      "id": 2,
+      "nama": "Adidas",
+      "jenis": "sepatu",
+      "harga": 25000,
+      "description": "sepatu baru alhamdulillah",
+      "img": "./image/sepatu.jpg"
+    },
+    {
+      "id": 3,
+      "nama": "Kemeja",
+      "jenis": "baju",
+      "harga": 30000,
+      "description": "baju hasil maling jemuran tetangga",
+      "img": "./image/kemeja.jpg"
+    }
+  ],
+  "cart": [
+    {
+     "username" : "admin",
+     "id_produk" : 3,
+     "nama_produk": "Kemeja",
+     "img":"./image/kemeja.jpg",
+     "harga_produk": 30000,
+     "kuantitas" : 1,
+     "total" : "",
+     "id_order" : 1
+
+    }
+  ]
+}
